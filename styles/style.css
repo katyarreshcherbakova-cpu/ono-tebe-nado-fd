@@ -82,6 +82,10 @@
     text-transform: uppercase;
 }
 
+.no-letter-spacing {
+    letter-spacing: 0;
+}
+
 .aligned-text {
     display: block;
 }
@@ -211,7 +215,7 @@
     grid-template-columns: 334px minmax(0, 1fr);
     align-items: start;
     gap: 25px;
-    margin: 120px 24px 0;
+    margin: 152px 24px 0;
 }
 
 .about-column {
