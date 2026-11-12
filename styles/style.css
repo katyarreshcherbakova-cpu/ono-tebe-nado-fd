@@ -19,7 +19,7 @@
     list-style: none;
 }
 
-.header__link{
+.header__link {
     text-decoration: underline;
     text-underline-offset: 4px;
 }
